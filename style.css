@@ -17,9 +17,9 @@
   }
   .tabs .line {
     position: absolute;
-    left: 0;
+    left: 135px;
     bottom: 0;
-    width: 0;
+    width: 156px;
     height: 6px;
     border-radius: 15px;
     background-color: #c23564;
@@ -67,5 +67,6 @@
     font-size: 24px;
     margin-bottom: 8px;
   }
+  
   
   
